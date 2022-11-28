@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Simple-intern-website/static/css/main.e84141a8.css",
+    "main.js": "/Simple-intern-website/static/js/main.32149356.js",
+    "static/media/about-truck.jpg": "/Simple-intern-website/static/media/about-truck.c594479becd65991973d.jpg",
+    "static/media/landing-page-truck.jpg": "/Simple-intern-website/static/media/landing-page-truck.00c68b56f124b6b3f7e4.jpg",
+    "static/media/landing-page-truck-mobile.jpg": "/Simple-intern-website/static/media/landing-page-truck-mobile.70cbfb1dd5d17c2ca98b.jpg",
+    "static/media/Screenshot_1.png": "/Simple-intern-website/static/media/Screenshot_1.2addfa6ee9403b4fdfcb.png",
+    "static/media/Screenshot_4.png": "/Simple-intern-website/static/media/Screenshot_4.a02520084139bb959379.png",
+    "static/media/Screenshot_3.png": "/Simple-intern-website/static/media/Screenshot_3.1bc2bd55e35b363f1aa4.png",
+    "static/media/Screenshot_6.png": "/Simple-intern-website/static/media/Screenshot_6.97e02d62763738ad332b.png",
+    "static/media/Screenshot_5.png": "/Simple-intern-website/static/media/Screenshot_5.c50958d943d9ed7f1ded.png",
+    "static/media/Screenshot_2.png": "/Simple-intern-website/static/media/Screenshot_2.591a787cab51af52d5f0.png",
+    "static/media/slick.svg": "/Simple-intern-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Simple-intern-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Simple-intern-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Simple-intern-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Simple-intern-website/index.html",
+    "main.e84141a8.css.map": "/Simple-intern-website/static/css/main.e84141a8.css.map",
+    "main.32149356.js.map": "/Simple-intern-website/static/js/main.32149356.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e84141a8.css",
+    "static/js/main.32149356.js"
+  ]
+}
